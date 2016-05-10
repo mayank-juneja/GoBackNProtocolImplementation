@@ -48,7 +48,6 @@ References
 - http://www.pythonforbeginners.com/
 - https://wiki.python.org/
 - http://ilab.cs.byu.edu/python/socket/echoserver.html
-- Professor's Mail Subject:[TLEN5330-001] TLEN 5330: Programming Assignment #2 Sample Code and Instructions (Due Oct. 12) Dated:Oct 02 2014
 ----------------------------------------------------------------------------------------------------------------------------
 Mayank Juneja can be reached at:
 
